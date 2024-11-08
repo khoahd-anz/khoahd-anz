@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![khoahd-anz](./template.svg)
+
 <!--
 **khoahd-anz/khoahd-anz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,0 +1,13 @@
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+<foreignObject width="100" height="100">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <iframe
+        id="inlineFrameExample"
+        title="Inline Frame Example"
+        width="300"
+        height="200"
+        src="https://khoahd.notion.site/Hello-World-138d541c84a380798759cae12c1446dd">
+      </iframe>
+    </div>
+</foreignObject>
+</svg>
